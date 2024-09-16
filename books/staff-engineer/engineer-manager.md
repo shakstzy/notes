@@ -3,3 +3,7 @@
 ## engineer-manager pendulum
 
 - key idea here
+
+### todo
+
+- revisit the diagrams in the next pass
