@@ -7,3 +7,7 @@
 ### todo
 
 - revisit the diagrams in the next pass
+
+### highlight
+
+- key passage that stuck with me
