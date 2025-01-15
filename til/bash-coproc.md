@@ -7,3 +7,7 @@ bash coproc for asynchronous co-process.
 ```
 # inline example here
 ```
+
+## why it matters
+
+- one paragraph rationale
