@@ -1,5 +1,5 @@
 # the-phoenix-project
 
-## the four types of work
+## the three ways
 
 - key idea here
