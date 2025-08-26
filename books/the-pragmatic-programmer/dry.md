@@ -7,3 +7,7 @@
 ### my take
 
 - agree with the framing, less sure about the example
+
+### my take
+
+- agree with the framing, less sure about the example
