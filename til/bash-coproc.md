@@ -11,3 +11,7 @@ bash coproc for asynchronous co-process.
 ## why it matters
 
 - one paragraph rationale
+
+## related
+
+- pairs well with rg / fd / jq
