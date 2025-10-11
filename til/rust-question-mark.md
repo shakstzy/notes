@@ -9,3 +9,9 @@ rust ? operator propagates errors concisely.
 ## reference
 
 - official docs link
+
+## example
+
+```
+# inline example here
+```
