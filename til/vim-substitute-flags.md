@@ -9,3 +9,9 @@ vim :s flags g/c/i for global/confirm/case.
 ## reference
 
 - official docs link
+
+## example
+
+```
+# inline example here
+```
