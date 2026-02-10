@@ -11,3 +11,7 @@ git stash -u includes untracked files.
 ## reference
 
 - official docs link
+
+## why it matters
+
+- one paragraph rationale
