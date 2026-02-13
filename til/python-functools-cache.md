@@ -9,3 +9,7 @@ functools.cache memoizes function calls.
 ## gotcha
 
 - watch out for the edge case
+
+## why it matters
+
+- one paragraph rationale
