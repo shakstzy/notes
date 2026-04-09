@@ -3,3 +3,7 @@
 ## ch4 encoding and evolution
 
 - key idea here
+
+### todo
+
+- revisit the diagrams in the next pass
