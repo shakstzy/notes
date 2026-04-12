@@ -9,3 +9,7 @@ SSH ControlMaster multiplexes connections.
 ## why it matters
 
 - one paragraph rationale
+
+## why it matters
+
+- one paragraph rationale
