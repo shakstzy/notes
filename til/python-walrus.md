@@ -9,3 +9,9 @@ python walrus operator := assigns inside expressions.
 ## gotcha
 
 - watch out for the edge case
+
+## example
+
+```
+# inline example here
+```
