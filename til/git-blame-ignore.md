@@ -11,3 +11,7 @@ git blame --ignore-revs-file.
 ```
 # inline example here
 ```
+
+## why it matters
+
+- one paragraph rationale
