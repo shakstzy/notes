@@ -9,3 +9,5 @@ bash <(cmd) creates a temp fd from command.
 ## reference
 
 - official docs link
+
+<!-- minor cleanup -->
