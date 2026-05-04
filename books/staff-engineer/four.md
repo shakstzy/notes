@@ -13,3 +13,5 @@
 - revisit the diagrams in the next pass
 
 <!-- note: revisited -->
+
+<!-- update 2026-05-04 -->
