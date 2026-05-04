@@ -11,3 +11,5 @@
 ### todo
 
 - revisit the diagrams in the next pass
+
+<!-- note: revisited -->
