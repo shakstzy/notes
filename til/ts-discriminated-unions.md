@@ -5,3 +5,5 @@ discriminated unions narrow type by tag.
 ## why it matters
 
 - one paragraph rationale
+
+<!-- minor cleanup -->
