@@ -5,3 +5,5 @@
 ## prior art
 
 - similar to existing tool X but simpler
+
+<!-- minor cleanup -->
