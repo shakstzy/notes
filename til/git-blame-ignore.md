@@ -15,3 +15,5 @@ git blame --ignore-revs-file.
 ## why it matters
 
 - one paragraph rationale
+
+<!-- update 2026-05-03 -->
