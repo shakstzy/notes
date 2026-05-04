@@ -11,3 +11,5 @@
 ### highlight
 
 - key passage that stuck with me
+
+<!-- note: revisited -->
