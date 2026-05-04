@@ -8,3 +8,5 @@ Personal notes. TIL, recipes, books, ideas.
 - `recipes/` — cooking
 - `books/` — book notes
 - `ideas/` — half-baked ideas
+
+<!-- note: revisited -->
