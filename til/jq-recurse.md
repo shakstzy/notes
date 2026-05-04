@@ -9,3 +9,5 @@ jq .. operator recursively descends.
 ## reference
 
 - official docs link
+
+<!-- minor cleanup -->

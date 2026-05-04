@@ -13,3 +13,5 @@ contextlib.suppress to ignore specific exceptions.
 ## gotcha
 
 - watch out for the edge case
+
+<!-- minor cleanup -->
