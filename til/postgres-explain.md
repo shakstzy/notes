@@ -9,3 +9,5 @@ postgres EXPLAIN ANALYZE shows actual plan.
 ## reference
 
 - official docs link
+
+<!-- update 2026-05-03 -->
