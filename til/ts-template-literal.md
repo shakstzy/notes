@@ -5,3 +5,5 @@ TypeScript template literal types.
 ## reference
 
 - official docs link
+
+<!-- note: revisited -->
